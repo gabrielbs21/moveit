@@ -16,7 +16,7 @@ export default class MyDocument extends Document {
           <meta property="og:image" content="/favicon.png" />
           <meta property="og:description" content="Um projeto para você manter o foco no seu trabalho em ciclos, 
           separados por pequenos desafios." />
-          <meta name="theme-color" content="#FF0000" />
+          <meta name="theme-color" content="#5965e0" />
         </Head>
 
         <body>
